@@ -53,7 +53,7 @@ app.get("/", (req, res) => {
   <body>
 
     <div class="banner">
-      <img src="https://cdn.pixabay.com/photo/2016/11/29/03/53/amazon-web-services-1862052_1280.jpg" />
+      <img src="/my.png" />
     </div>
 
     <div class="container">
